@@ -1,0 +1,28 @@
+{
+    "products":[
+        { 
+            "name":"TP-Link Deco M5 Mesh Home Wifi 2 Pack", 
+            "description":"Mesh, AC1300, App for iOS/Android, ...",
+            "id": 1164357,
+            "image": "https://www.komplett.no/img/p/1000/1164357.jpg", 
+            "group": "network",
+            "price": 1490.00
+        }, 
+        { 
+            "name":"Acer 24\" skjerm KA240Ybi", 
+            "description":"1920x1080 VA, 75hz, 1ms*, 1000:1, VGA/HDMI",
+            "id": 1176007,
+            "image": "https://www.komplett.no/img/p/1200/1176007.jpg", 
+            "group": "screen",
+            "price": 999.00
+        }, 
+        { 
+            "name":"SteelSeries Rival 3 Gaming Mus", 
+            "description":"USB, 6 programmerbare knapper, 8500 DPI, 3-soner RGB, vekt 77g",
+            "id": 1149304,
+            "image": "https://www.komplett.no/img/p/1200/1149304.jpg", 
+            "group": "perifirals",
+            "price": 699.00
+        }
+    ]
+}

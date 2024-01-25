@@ -1,0 +1,11 @@
+h1 {
+    margin: 10px;  
+}
+#productsContainer div {
+    border: 1px solid gray; 
+    padding: 0 10px; 
+    margin: 10px;  
+}
+#productsContainer img { 
+    width: 200px; 
+}
